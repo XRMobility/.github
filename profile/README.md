@@ -1,8 +1,6 @@
 # Welcome to XRM
 
-![kk.png](README.assets/kk.png)
-
-https://imdl.naist.jp/ja/wp-content/uploads/sites/2/2021/09/kk.png
+![kk.png](https://imdl.naist.jp/ja/wp-content/uploads/sites/2/2021/09/kk.png)
 
 ## 快適自動走行のための XR モビリティプラットフォーム
 
