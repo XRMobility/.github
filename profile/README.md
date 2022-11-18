@@ -1,6 +1,6 @@
 # Welcome to XRM
 
-![kk.png](./README.assets/kk.png)
+![kk.png](https://github.com/XRMobility/.github/blob/main/profile/README.assets/kk.png)
 
 ## 快適自動走行のための XR モビリティプラットフォーム
 
